@@ -50,4 +50,4 @@ Net Cash Flow Volatility
 Seasonal and strategic cash uses cause net flow swings, emphasizing the strong underlying operating cash generation that cushions these moves.
 2024: (-$794 M) vs. large inflows in ’23 (+$5.8 B) and outflows in ’22 (-$10.9 B)
 Driven by swings in Investing (acquisitions, capex) and Financing (debt issuance/repurchases)
-<img width="97" height="1498" alt="image" src="https://github.com/user-attachments/assets/30448f2d-ba70-4ef6-a5f1-0e34d3b48a52" />
+
