@@ -51,3 +51,13 @@ Seasonal and strategic cash uses cause net flow swings, emphasizing the strong u
 2024: (-$794 M) vs. large inflows in ’23 (+$5.8 B) and outflows in ’22 (-$10.9 B)
 Driven by swings in Investing (acquisitions, capex) and Financing (debt issuance/repurchases)
 
+AI in in buy/selling common shares of stock
+Fintech has the possibility to aid investor make data driven decisions, but not replace an investor entirely yet. Accourding to the CFA Institute Research Foundation, "Technical analysis provides a framework for informing investment management decisions by applying a supply and demand methodology to market prices. Underlying principles of the study of technical analysis are derived from the assumption that changes in the supply and demand of traded securities affect their current market prices." -Scott, G., Carr, M., & Cremonie, M. (2016). Technical analysis: Modern perspectives. CFA Institute Research Foundation. https://rpc.cfainstitute.org/research/foundation/2017/technical-analysis
+
+Portfolio managers can easily refresh charts to show trading volume, moving averages, stock price volitility, and relative strength charts, trading momentum, and stop-losses. These data points are offered under certain subscriptions, yet through Python, any type of investor can replicate these important signals for free of charge, as like the screenshots below.
+<img width="726" height="390" alt="image" src="https://github.com/user-attachments/assets/538d1b02-25e5-4deb-968f-27b77569ce46" />
+
+
+Examples of Charts that can be created.
+
+<img width="440" height="383" alt="image" src="https://github.com/user-attachments/assets/1cb45b71-e3f9-4745-aa0b-3474d3676742" />
